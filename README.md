@@ -138,12 +138,3 @@ http://127.0.0.1:5000
 ## ⭐ Like this project?
 
 If you found this project helpful or interesting, please give it a ⭐ on GitHub – it really helps support my work and reach more developers!
-
-```
-
----
-
-✅ Paste the copied content into your `README.md` file on GitHub.  
-Let me know if you’d like help generating `requirements.txt` or want deployment steps next!
-```
-
