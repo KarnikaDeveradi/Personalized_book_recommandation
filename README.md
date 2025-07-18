@@ -127,14 +127,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📬 Contact
-
-**Developer:** Your Name
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
 ## ⭐ Like this project?
 
 If you found this project helpful or interesting, please give it a ⭐ on GitHub – it really helps support my work and reach more developers!
